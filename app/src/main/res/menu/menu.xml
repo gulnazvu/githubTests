@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_add" android:title="Add" android:icon="@drawable/aboutus"/>
+    <item android:id="@+id/menu_DashBoard" android:title="DashBoard" />
+    <item android:id="@+id/menu_Master_Entry" android:title="Master Entry" />
+    <item android:id="@+id/menu_Product_Section" android:title="Product Section" />
+    <item android:id="@+id/menu_Retailers_Orders" android:title="Retailers Orders" />
+</menu>
